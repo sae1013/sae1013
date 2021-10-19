@@ -3,8 +3,9 @@
 ## 👋 Hi there
 **다양한 분야에 관심이 많습니다.<br>
 방법을 고민해보는것을 좋아합니다**
-
-## Stack
+<br>
+<br>
+## ⚒ Stack
 
   <img src="https://img.shields.io/badge/JS-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black">
   <img src="https://img.shields.io/badge/PYTHON-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white">
