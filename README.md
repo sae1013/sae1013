@@ -14,7 +14,8 @@
   <img src="https://img.shields.io/badge/CSS-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"><br>
   <img src="https://img.shields.io/badge/FIREBASE-FFCA28.svg?&style=for-the-badge&logo=FireBase&logoColor=white">
-
+  <img src="https://img.shields.io/badge/NODE-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/MONGODB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white">
   <br>
   <br>
   <br>
@@ -22,8 +23,7 @@
 <br>
 <div align=center>
 <img src="https://img.shields.io/badge/ANDROID APP-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=black">
-<img src="https://img.shields.io/badge/NODE-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/MONGODB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white">
+
 </div>
 <br>
 🙈 공부하고 있어요!
