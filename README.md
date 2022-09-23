@@ -1,8 +1,4 @@
 <div align=center>
-
-## 👋 Hi there
-**문제해결, 최적화에 관심이 많습니다.<br>
-방법을 고민해보는것을 좋아합니다**
 <br>
 <br>
 ## ⚒ Stack
@@ -19,15 +15,3 @@
   <br>
   <br>
   <br>
-🙋‍♂️ 써봤어요!
-<br>
-<div align=center>
-<img src="https://img.shields.io/badge/ANDROID APP-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=black">
-
-</div>
-<br>
-🙈 공부하고 있어요!
-<br>
-  <img src="https://img.shields.io/badge/NEXT.JS-000.svg?&style=for-the-badge&logo=Next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/typescript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white">
-</div>
